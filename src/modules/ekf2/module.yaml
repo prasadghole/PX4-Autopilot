@@ -32,7 +32,7 @@ parameters:
       type: float
       default: 110
       min: 0
-      max: 300
+      max: 1000
       unit: ms
       reboot_required: true
       decimal: 1
